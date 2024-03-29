@@ -1,6 +1,6 @@
-# Project Title
+# Proxy Checker
 
-A brief description of your project.
+A project which checks the status of a list of proxies. It can be used to check if a proxy is working or not, and can be used to check if a proxy can reach google or not.
 
 ## Table of Contents
 
