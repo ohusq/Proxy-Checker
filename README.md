@@ -12,12 +12,12 @@ A brief description of your project.
 ## Installation
 
 Download the source code from the [releases page](https://github.com/ohusq/Proxy-Checker/releases) or clone the repository using Git:
-```bash git clone https://github.com/ohusq/Proxy-Checker.git```
+```git clone https://github.com/ohusq/Proxy-Checker.git```
 
 ## Usage
 
 Run the program using the following command:
-```bash py main.py proxies.txt True```
+```py main.py proxies.txt True```
 ^^ Assuming you have a file named `proxies.txt` in the same directory as the program, and you want to check the proxies for reaching Google.
 
 ## Contributing
